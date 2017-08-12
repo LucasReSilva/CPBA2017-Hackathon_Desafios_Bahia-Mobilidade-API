@@ -15,12 +15,12 @@ module.exports = {
     },
 
     latitude: {
-      type: 'number',
+      float:true,
       required: true
     },
 
     longitude: {
-      type: 'number',
+      float:true,
       required: true
     },
 
