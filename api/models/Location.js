@@ -22,6 +22,11 @@ module.exports = {
     longitude: {
       type: 'number',
       required: true
+    },
+
+    googlesid: {
+      type: 'string',
+      required: false
     }
 
   }

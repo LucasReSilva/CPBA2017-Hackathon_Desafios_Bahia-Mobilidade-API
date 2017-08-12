@@ -12,7 +12,7 @@ module.exports = {
       type: 'string',
       required: true,
       alpha: true
-    }
+    }    
   }
 };
 
