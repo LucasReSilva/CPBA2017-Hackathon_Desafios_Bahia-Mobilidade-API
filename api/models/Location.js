@@ -31,9 +31,7 @@ module.exports = {
 
     useremail: {
       type: 'string',
-      required: true,
       email: true,
-      unique: true
     }
 
   }
