@@ -27,6 +27,13 @@ module.exports = {
     googlesid: {
       type: 'string',
       required: false
+    },
+
+    useremail: {
+      type: 'string',
+      required: true,
+      email: true,
+      unique: true
     }
 
   }

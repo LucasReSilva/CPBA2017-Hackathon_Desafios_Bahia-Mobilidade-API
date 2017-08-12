@@ -27,7 +27,7 @@ module.exports = {
       required: true,
       minLength: 8,
       maxLength: 32
-    }
+    },
 
   }
 };
